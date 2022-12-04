@@ -1,7 +1,8 @@
 title: Lorenzo Lorgna
-logo: assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+logo: assets/img/IMG_0011.png
+description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 url: https://lorenzlorg.github.io
+github_username: lorenzlorg
