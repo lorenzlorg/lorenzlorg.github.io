@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "YOLO"
 ---
 
-# Welcome
+# Computer Vision
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+Oggi si parla di YOLO
