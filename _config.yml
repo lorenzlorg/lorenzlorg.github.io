@@ -14,3 +14,6 @@ google_analytics:
 theme: jekyll-theme-minimal
 url: https://lorenzlorg.github.io
 github_username: lorenzlorg
+# avatar: /assets/img/logo.png
+# round-avatar: true
+
